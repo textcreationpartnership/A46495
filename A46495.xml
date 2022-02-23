@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties most gracious letter to the Parliament of Scotland</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46495</idno>
+            <idno type="STC">Wing J219A</idno>
+            <idno type="STC">ESTC R28731</idno>
+            <idno type="EEBO-CITATION">10749946</idno>
+            <idno type="OCLC">ocm 10749946</idno>
+            <idno type="VID">45640</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45640)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1405:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties most gracious letter to the Parliament of Scotland</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated: April 12th, 1686.</note>
+                  <note>With: The Parliament of Scotlands dutiful answer to His Majesties Letter (p. 3-4)</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  James II, 1685-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:45640:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb n="1" facs="tcp:45640:1"/>
+            <!-- PDF PAGE 1 -->
+            <head>
+               <figure>
+                  <p>I<hi rend="sup">7</hi> R</p>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head> HIS MAJESTIES Moſt Gracious Letter TO THE PARLIAMENT OF SCOTLAND.</head>
+            <argument>
+               <p>Publiſhed by His Majeſties Command.</p>
+            </argument>
+            <opener>
+               <signed>JAMES R.</signed>
+               <lb/>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>THE great Teſtimonies We had of your Loyalty and Affection to Our Royal Perſon and Government at your laſt Seſſion, (in which you not only made an humble Offer of your Duty in ample manner, and ſhewed your Abhorrence of the Rebellion then raiſed againſt Us, and your Readineſs on that, and all other Occa<g ref="char:EOLhyphen"/>ſions to ſtand by Us with your Lives and Fortunes, but (wiſely conſider<g ref="char:EOLhyphen"/>ing how much the Forces which former Parliaments had given Us Supplies to maintain, ſupported by your Aſſiſtance, and bleſſed by God, were in<g ref="char:EOLhyphen"/>ſtrumental in ending that unnatural Rebellion) you gave Us the occaſion by Augmenting your Supplies to add to Our Forces, (and conſequently to your own Security) for all which as We then returned you Our moſt Hear<g ref="char:EOLhyphen"/>ty and Royal Thanks, and conſidered you the Examples to Our other Subjects of Loyalty, Duty and Affection to Us, (as you had been in Our former Difficulties) ſo it ſtirred up in Us an Ardent Deſire of making ſuch
+<pb n="2" facs="tcp:45640:2"/>
+               <!-- PDF PAGE 2 -->
+Returns unto you, as might every way make you find the Advantage of your Faithfulneſs and Duty to Us.</p>
+            <p>It is for this End that We have again deſired to meet you in this Seſſion.</p>
+            <p>We have conſidered your Intereſt as much as Our Diſtance from you could bring into Our Proſpect, and thoſe things which We found proper for it, whe<g ref="char:EOLhyphen"/>ther in Relation to Trade and Commerce, or Eaſing ſome things Uneaſie to you amongſt yourſelves, We have fully Inſtructed Our Commiſſioner (with your Advice and Conſent) to conclude ſo, as may be moſt for the General Good of that Our Antient Kingdom.</p>
+            <p>We have made the Opening of a Free Trade with <hi>England</hi> Our Particu<g ref="char:EOLhyphen"/>lar Care, and are Proceeding in it with all Imaginable Application, and are Hopeful in a ſhort time to have Conſiderable Advances made in it. We have conſidered the Trouble that many are put to Daily by Proſecutions before Our Judges, or the hazard that they ly under for their Acceſſion to the late Rebellions: And to ſhew the World (even Our greateſt Enemies themſelves) that Mercy is Our Inclination, and Severity what is by their Wickedneſs Extorted from Us, We have ſent down to be Paſt in your Preſence Our Full and Ample Indemnity for all Crimes Committed againſt Our Royal Perſon or Authority. And whilſt We ſhew theſe Acts of Mer<g ref="char:EOLhyphen"/>cy to the Enemies to Our Perſon, Crown and Royal Dignity, We can<g ref="char:EOLhyphen"/>not be Unmindful of Others Our Innocent Subjects, thoſe of the Roman Catholick Religion, who have with the hazard of their Lives and For<g ref="char:EOLhyphen"/>tunes been always Aſſiſtant to the Crown in the worſt of Rebellions and Uſurpations, though they lay under Diſcouragements hardly to be Named. Them We do heartily Recommend to your Care, to the end that as they have given Good Experience of their True Loyalty and Peaceable Behaviour, ſo by your Aſſiſtance they may have the Protection of Our Laws, and that Security under Our Government, which others of Our Subjects have, not ſuffering them to lie under Obligations which their Religion cannot ad<g ref="char:EOLhyphen"/>mit of. By doing whereof you will give a Demonſtration of the Duty and Affection you have for Us, and do Us moſt acceptable Service.</p>
+            <p>This Love We expect you will ſhew to your Brethren, as you ſee We are an Indulgent Father to you all.</p>
+            <p>For theſe, and ſuch other Matters as We conceive for Our Service, and the Univerſal Good of the Nation, We have ſent Our Right Truſty and Right Entirely Beloved Couſin and Counſellor, <hi>Alexander</hi> Earl of <hi>Morray,</hi> Secretary of State for that Our Ancient Kingdom, Our Com<g ref="char:EOLhyphen"/>miſſioner to you, believing that none will be more acceptable than one ſo immediatly Imployed and Truſted about Our Perſon, of whoſe Long and Faithful Services We have full Experience in every one of the ſeveral Imployments he has been in, and of whoſe Loyalty and Affe<g ref="char:EOLhyphen"/>ction to Our Perſon and Service We are fully convinced. To him We deſire you to give entire Credit, as One fully Inſtructed and Truſted by Us, from whoſe Experience and Faithful Endeavours, with your Loyal<g ref="char:EOLhyphen"/>ty, Love and Duty to Us, We have good Reaſon to expect a happy Concluſion to this Seſſion: And you may aſſure your ſelves in general, and every one of you in particular, That We ſhall have both the gene<g ref="char:EOLhyphen"/>ral-Concern of the Nation and yours into Our moſt particular Regard,
+<pb n="3" facs="tcp:45640:2"/>
+               <!-- PDF PAGE 2 -->
+which We ſhall expreſs by Our Royal Favour upon all ſuitable Occaſi<g ref="char:EOLhyphen"/>ons. So not only expecting your Complyance with Us, but that by the Manner of it you will ſhew the World your readineſs to meet Our In<g ref="char:EOLhyphen"/>clinations, We bid you moſt heartily Farewel.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall,</hi> 
+                  <date>the 12th Day of <hi>April,</hi> 1686. and of Our Reign the Second Year.</date>
+               </dateline>
+               <signed>By His Majesties Command. <hi>MELFORT.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Parliament of <hi>Scotlands</hi> Dutiful Anſwer to His <hi>Majesties Letter.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe Your Sacred Majeſty,</salute>
+            </opener>
+            <p>WE do return Your Majeſty our moſt humble and hearty Thanks, for the frequent Marks of Your Royal Favour expreſt to this Your Majeſties Ancient Kingdom upon all Occaſions; And particularly, in Your Majeſties Gracious Letter dated the 12<hi rend="sup">th</hi> of <hi>April</hi> laſt: And Your Majeſty may with full Aſſurance expect, That Your Gracious Ac<g ref="char:EOLhyphen"/>ceptance of thoſe Services we did You in the laſt Seſſion of this Parlia<g ref="char:EOLhyphen"/>ment, will encourage us to continue our Zeal and Firmneſs in this, for Your Majeſties Service, and the Royal Intereſt, upon which, under God, we acknowledge our Happineſs and Preſervation do intirely depend.</p>
+            <p>Your Majeſties Care of the Trade of this Kingdom (which is, at pre<g ref="char:EOLhyphen"/>ſent, exceedingly Decayed) and particularly, Your Royal Endeavors to procure us a Free Trade with Your Kingdom of <hi>England,</hi> will very much enable us to make theſe Supplies effectual, which we have ſo heartily and willingly undertaken for the Security of the Crown, and Safety of the Kingdom; Nor ſhall the Advantages that can ariſe thereby, be more ac<g ref="char:EOLhyphen"/>ceptable to us upon any other Account, than ſo far, as they may be a Te<g ref="char:EOLhyphen"/>ſtimony of Your Majeſties Kindneſs, and conduce to thoſe great Ends.</p>
+            <p>Your Majeſties Clemency, teſtified in the Offer of an Indemnity to theſe deſperate Rebels, who could have expected Pardon from no Monarch on Earth but Your Sacred Majeſty; And the greateſt Aggravation of whoſe Crimes, lies in oppoſing ſuch Gracious and Merciful Princes, will
+<pb n="4" facs="tcp:45640:3"/>
+               <!-- PDF PAGE 3 -->
+(we hope) not only convince your other Subjects how happy they are under Your Government, but reclaim them from bearing any further En<g ref="char:EOLhyphen"/>mity to it; And to let them ſee how Extravagant, as well as Undutiful, their Endeavours will be, in oppoſing Your Majeſty, and Your Royal Succeſſors, We do again moſt Sincerely and Heartily offer You our Lives and Fortunes for ſuppreſſing all ſuch, as ſhall upon any Account or Pre<g ref="char:EOLhyphen"/>tence whatſoever, attempt, either by private Contrivances, or open Re<g ref="char:EOLhyphen"/>bellions, to diſquiet Your Glorious Reign.</p>
+            <p>As to that part of Your Majeſties Letter relating to Your Subjects of the <hi>Roman Catholick Religion.</hi> We ſhall, in Obedience to Your Majeſties Commands, and with Tenderneſs to their Perſons, take the ſame into our ſerious and dutiful Conſideration, and go as great Lengths therein, as our Conſcience will allow; Not doubting that Your Majeſty will be careful to ſecure the Proteſtant Religion eſtabliſhed by Law.</p>
+            <p>Your Majeſties Commiſſioner has, to our very great Satisfaction, ſigni<g ref="char:EOLhyphen"/>fied to us, That he is fully inſtructed by Your Majeſty, to promote every thing which may tend to the Improvement of the Wealth and Proſperity of this Your Ancient Kingdom; And we hope, that by his wiſe Care and Conduct, this Seſſion of Parliament may be brought to a happy Conclu<g ref="char:EOLhyphen"/>ſion; And to Him, ſeeing Your Majeſty has well judged that none could be more acceptable, We ſhall give that intire Credit and Concur<g ref="char:EOLhyphen"/>rence, and pay that Reſpect which is due to the eminent Character which Your Majeſty has been pleaſed to give Him; And to that conſtant Loyal<g ref="char:EOLhyphen"/>ty and Fidelity with which He has acquitted Himſelf in all the former Truſts and Employments which He has born under Your Majeſties Royal Brother, and Your Self; Hoping that we ſhall give Him juſt Reaſon to report at his Return to Your Majeſty, with how much Zeal, Duty and Affection, we endeavour to deſerve the being Conſidered, by Your Majeſty, as</p>
+            <closer>
+               <salute>(May it pleaſe Your Sacred Majeſty)</salute> 
+               <signed>Your Majeſties moſt Humble, moſt Faithful, And moſt Obedient Subjects and Servants. <hi>PERTH CANC.</hi> I. P. D. Parl.</signed>
+               <dateline>Edinburgh, <date>May 6. 1686.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:45640:3"/>
+            <!-- PDF PAGE 3 -->
+         </div>
+      </body>
+   </text>
+</TEI>
